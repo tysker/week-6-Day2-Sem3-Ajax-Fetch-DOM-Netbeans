@@ -1,0 +1,5 @@
+filter\ResponseFilter.class
+entity\Quotes.class
+facade\QuoteFacade.class
+rest\ApplicationConfig.class
+rest\QuotesRessources.class
